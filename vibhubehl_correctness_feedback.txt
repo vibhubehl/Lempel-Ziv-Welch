@@ -1,0 +1,2 @@
+../../assignment2/reports/builds.csv:"vibhubehl","/tmp/Assignment2-scratch/vibhubehl-EOPXDpaW","LZW","failure",1,,"/tmp/Assignment2-scratch/vibhubehl-EOPXDpaW/LZW.c: In function p [truncated from 347]"
+../../assignment2/reports/checkouts.csv:"vibhubehl","success","/tmp/Assignment2-studentCheckouts/vibhubehl"
