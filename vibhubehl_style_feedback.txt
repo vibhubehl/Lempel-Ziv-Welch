@@ -1,0 +1,33 @@
+Student (NetlinkID): vibhubehl
+
+Style Grade: 20/20
+
+
+Select Qualitative Feedback:
+===========================
+
+Formatting 
+good 
+
+format
+
+Naming
+...
+
+
+
+Commenting
+...
+
+
+
+Functional Decomposition
+...
+
+
+
+General Qualitative Feedback from Teaching Team:
+===============================================
+good styling overall
+...
+...
