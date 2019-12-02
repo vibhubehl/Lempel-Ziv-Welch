@@ -25,7 +25,8 @@ void flush12(FILE *outfil);
 
 
 void print_str(unsigned char w[]){
-    for(int i=1;i<=w[0]; i++){
+    int i;
+    for( i=1;i<=w[0]; i++){
         printf("%c",w[i]);
     }
     printf("\n");
